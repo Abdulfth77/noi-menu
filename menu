@@ -6,6 +6,6 @@
     <title>PDF Viewer</title>
 </head>
 <body>
-    <iframe src="https://drive.google.com/file/d/1mtYp2prgz2rq6n2b95P8gTtf9Ud7ywJL/view?usp=drive_link" width="100%" height="600px"></iframe>
+    <iframe src="https://drive.google.com/file/d/1mtYp2prgz2rq6n2b95P8gTtf9Ud7ywJL/preview" width="100%" height="600px"></iframe>
 </body>
 </html>
